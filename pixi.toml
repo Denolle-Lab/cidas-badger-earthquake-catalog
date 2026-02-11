@@ -23,7 +23,7 @@ pytorch = "*"
 seisbench = "*"
 elep = "*"
 pyocto = "*"
-libcomcat = "*"
+usgs-libcomcat = "*"
 
 [tasks]
 jupyter = "jupyter notebook"

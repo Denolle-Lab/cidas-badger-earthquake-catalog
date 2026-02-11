@@ -19,4 +19,4 @@ dependencies:
     - seisbench
     - elep
     - pyocto
-    - libcomcat
+    - usgs-libcomcat

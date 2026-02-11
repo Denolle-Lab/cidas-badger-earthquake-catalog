@@ -62,7 +62,7 @@ The following Python packages are included:
 * **SeisBench**: Seismological machine learning models
 * **ELEP**: Earthquake location and phase picking
 * **PyOcto**: Octree-based earthquake location
-* **libcomcat**: USGS ComCat data access library
+* **usgs-libcomcat**: USGS ComCat data access library
 
 ## Usage
 
