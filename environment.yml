@@ -13,9 +13,9 @@ dependencies:
   - scipy
   - h5py
   - pytorch
+  - ipykernel
   - pip
   - pip:
-    - ipykernel
     - seisbench
     - elep
     - pyocto
