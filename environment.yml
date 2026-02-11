@@ -1,0 +1,22 @@
+name: cidas-badger-catalog
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.9
+  - numpy
+  - matplotlib
+  - pandas
+  - obspy
+  - jupyter
+  - notebook
+  - scipy
+  - h5py
+  - pytorch
+  - ipykernel
+  - pip
+  - pip:
+    - seisbench
+    - elep
+    - pyocto
+    - usgs-libcomcat
